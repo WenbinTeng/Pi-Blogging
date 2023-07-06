@@ -36,5 +36,5 @@ This is a repository of a blog platform deployed on Raspberry Pi based on Hexo.
    hexo serve
    ```
 
-4. Access your blog through browser (for example, the generated address of my blogs is `http://69.254.151.137:4000`).
+4. Access your blog through browser (for example, the generated address of my blogs is `http://169.254.151.137:4000`).
 
